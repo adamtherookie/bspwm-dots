@@ -15,6 +15,7 @@ Requires you to have a Nerd Font installed (I use Fira Code)
 
 (This is a pywal config so everything is theme-able using pywal)
 
-## Screenshots:
-(I'm a bit lazy imma add them later)
+[screenshot_1](./screenshot_1.png)
+[screenshot_2](./screenshot_2.png)
+
 
